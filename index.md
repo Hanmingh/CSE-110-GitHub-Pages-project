@@ -3,7 +3,7 @@
 ### About Me
 **My name: Hanming Hu**
 *I'm a junior student from Warren College.*
-***My favorite programming language is ~~java C ~~C++***
+***My favorite programming language is ~~java~~C++***
 
 As the motto of our college:
 > Toward a Life in Balance
