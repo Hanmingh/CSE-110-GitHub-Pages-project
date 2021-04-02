@@ -2,14 +2,15 @@
 
 ### About Me
 **My name: Hanming Hu**
+
 *I'm a junior student from Warren College.*
-***My favorite programming language is ~~java~~C++***
+***My favorite programming language is ~~java~~ C++***
 
 As the motto of our college:
 > Toward a Life in Balance
 I am looking for a balance between my academic work and daily entertainment.
 
-As a programmer, I'm interested in 'software engineering' and 'machine learning'.
+As a programmer, I'm interested in `software engineering` and `machine learning`.
 
 This site is my [GitHub Page](https://github.com/Hanmingh).
 
