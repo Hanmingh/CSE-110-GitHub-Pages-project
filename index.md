@@ -8,7 +8,6 @@
 
 As the motto of our college:
 > Toward a Life in Balance
-I am looking for a balance between my academic work and daily entertainment.
 
 As a programmer, I'm interested in `software engineering` and `machine learning`.
 
